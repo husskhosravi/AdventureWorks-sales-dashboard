@@ -87,4 +87,4 @@ For details on my DAX implementation, see [Key DAX Measures](./documentation/key
 
 ---
 
-*Note: Due to data sensitivity, the actual data sources have been anonymised and only the Power BI model structure is shared.*
+*Note: The actual data sources have been anonymised and only the Power BI model structure is shared.*
