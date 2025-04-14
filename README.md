@@ -44,6 +44,7 @@ I created this dashboard to address several key business challenges:
 - Customer segmentation by occupation (Professional, Skilled Manual, Management)
 - Top 100 customers by revenue
 - Customer trending analysis over time
+![Customer Insights](./screenshots/Customer_detail.png)
 
 ### Performance Tracking
 - KPI gauges for monthly orders, revenue, and profit vs targets
