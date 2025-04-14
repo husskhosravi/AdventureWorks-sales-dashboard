@@ -36,6 +36,7 @@ I created this dashboard to address several key business challenges:
 - Interactive world map showing sales by country
 - Regional filters (Europe, North America, Pacific)
 - Country-level sales performance
+![Geographic Sales Distribution](./screenshots/Map_view.png)
 
 ### Customer Insights
 - 17.4K unique customers with $1,431 average revenue per customer
