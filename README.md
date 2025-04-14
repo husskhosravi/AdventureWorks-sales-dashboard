@@ -29,7 +29,7 @@ I created this dashboard to address several key business challenges:
 - Product category breakdown (Accessories: 17K, Bikes: 13.9K, Clothing: 7K)
 - Product metrics selection for custom analysis
 - Price adjustment simulation capabilities
-
+https://github.com/husskhosravi/AdventureWorks-sales-dashboard/blob/main/screenshots/Product_detail.png
 ### Geographic Sales Distribution
 - Interactive world map showing sales by country
 - Regional filters (Europe, North America, Pacific)
