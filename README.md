@@ -78,12 +78,6 @@ I developed sophisticated DAX measures including:
 
 For details on my DAX implementation, see [Key DAX Measures](./documentation/key-dax-measures.md).
 
-## Screenshots
-- [Main Dashboard](./screenshots/Exec_dashboard.png)
-- [Geographic Analysis](./screenshots/Map_view.png)
-- [Product Performance](./screenshots/Product_detail.png)
-- [Customer Analysis](./screenshots/Customer_detail.png)
-
 ## Additional Documentation
 - [Data Sources and ETL Process](./documentation/data-sources.md)
 - [Key DAX Measures](./documentation/key-dax-measures.md)
