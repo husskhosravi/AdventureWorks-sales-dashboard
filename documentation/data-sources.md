@@ -49,17 +49,3 @@ While specific details cannot be shared, my data preparation process included:
 4. **Performance Optimisation**
    - Data type optimisation for improved performance
    - Appropriate indexing and compression
-   - Query folding optimisations where possible
-
-## Data Governance Considerations
-
-Due to the sensitive nature of the data:
-
-- Personal identifiable information (PII) has been appropriately handled
-- Row-level security has been considered in the design
-- Proper data categorisation has been applied for security
-- Only aggregated metrics are displayed in visualisations
-
----
-
-*Note: This documentation outlines the data structure without revealing sensitive information.*
