@@ -82,7 +82,3 @@ For details on my DAX implementation, see [Key DAX Measures](./documentation/key
 - [Data Sources and ETL Process](./documentation/data-sources.md)
 - [Key DAX Measures](./documentation/key-dax-measures.md)
 - [Data Model Documentation](./documentation/data-model.md)
-
----
-
-*Note: The actual data sources have been anonymised and only the Power BI model structure is shared.*
