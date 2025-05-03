@@ -46,6 +46,10 @@ I created this dashboard to address several key business challenges:
 - Customer trending analysis over time
 ![Customer Insights](./screenshots/Customer_detail.png)
 
+### Smart Category Tooltip
+- Developed a customised category tooltip, enabling users to hover over visuals and access detailed product-level insights for each category.
+![Customised Category Tooltip](./screenshots/Customised_Category_Tooltip.png)
+
 ### Performance Tracking
 - KPI gauges for monthly orders, revenue, and profit vs targets
 - Profit trending with adjusted profit analysis
