@@ -36,6 +36,7 @@ I created this dashboard to address several key business challenges:
 - Interactive world map showing sales by country
 - Regional filters (Europe, North America, Pacific)
 - Country-level sales performance
+  
 ![Geographic Sales Distribution](./screenshots/Map_view.png)
 
 ### Customer Insights
@@ -44,10 +45,12 @@ I created this dashboard to address several key business challenges:
 - Customer segmentation by occupation (Professional, Skilled Manual, Management)
 - Top 100 customers by revenue
 - Customer trending analysis over time
+  
 ![Customer Insights](./screenshots/Customer_detail.png)
 
 ### Smart Category Tooltip
 - Developed a customised category tooltip, enabling users to hover over visuals and access detailed product-level insights for each category.
+  
 ![Customised Category Tooltip](./screenshots/Customised_category_tooltip.png)
 
 ### Performance Tracking
