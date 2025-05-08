@@ -1,4 +1,4 @@
-# AdventureWorks Dashboard - Data Sources and ETL Documentation
+# Data Sources and ETL Documentation
 
 This document provides an overview of the data sources and transformation processes I used in the AdventureWorks Sales Dashboard. Due to data sensitivity, specific details about the data are not included.
 
